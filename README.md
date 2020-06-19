@@ -1,7 +1,7 @@
 # Портфолио
 ## Рузайкин Владимир Олегович
 ### Резюме на [HH.ru](https://hh.ru/resume/3999d9ddff064a9a120039ed1f70336e62516d)
-
+--------
 [Практика, уроки `javascript`](https://github.com/Garfildus/js-practice)
 
 Моё самообучение js
