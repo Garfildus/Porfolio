@@ -2,7 +2,10 @@
 Мое портфолио
 
 [Практика, уроки `javascript`](https://github.com/Garfildus/js-practice)
+
 Моё самообучение js
+
+----------------------
 
 [Сайты, шаблоны решений для сайтов на `GitHubPages` HTML, CSS](https://github.com/Garfildus/TemplateGitPages)
 Интерактивное представление сайтов, шаблонов с помощью GithubPages
